@@ -1,0 +1,65 @@
+html,body {
+	font-family: Open Sans;
+	background-image: url("../img/pattern.jpg");
+}
+
+
+/* NavBar */
+.navbar {
+	height: 100px;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-size: 50px;
+	padding-left: 75px;
+}
+
+.navbar-nav{
+	font-size: 22px;
+	padding-right: 75px;
+}
+
+
+/* Headers */
+.headers{
+	font-weight: bold;
+	text-align: center;
+	padding-top: 150px;
+}
+
+
+/* Carousel Containers */
+.carouselContainer{
+	background-color:;
+}
+
+.carousel{
+	border: solid;
+	border-width: 10px;
+	border-color: #878484;
+	height: 446px;
+	width: 900px;
+	margin: auto;
+}
+
+.carousel-indicators li {
+  background-color: #999;
+}
+
+.carousel-indicators .active {
+  background-color: #444;
+}
+
+.synopsisContainer{
+	height: 200px;
+	width: 820px;
+	margin: auto;
+	background-color: #fff;
+	border: inset;
+	border-width: 10px;
+}
+
+.synopsis{
+	text-align: center;
+	font-size: 17px;
+}
